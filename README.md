@@ -31,8 +31,6 @@ Money spent       : █░░░░░░░░░░░░░░░░░░░
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
 ```
 
----
-
 ### 📫 Reach Me
 
 - 📧 1694717255+@qq.com (the + is for tracking who sells my data)
