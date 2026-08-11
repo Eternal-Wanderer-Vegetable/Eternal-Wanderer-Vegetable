@@ -1,7 +1,10 @@
 ## 🗑️ Hi, I'm a Cyber Scavenger
 
-> *Hunting down every free token like digital dumpster gold.*  
-> 🏴‍☠️ No subscription is safe. No trial is too short. No student pack is left unclaimed.
+![Cyber Scavenger](https://img.shields.io/badge/Cyber_Scavenger-FF6B00?style=for-the-badge&logo=github&logoColor=white)
+![Free Tier Architect](https://img.shields.io/badge/Free_Tier_Architect-2EA043?style=for-the-badge&logo=vercel&logoColor=white)
+![Token Hoarder Lv.99](https://img.shields.io/badge/Token_Hoarder_Lv.99-8A2BE2?style=for-the-badge&logo=stackshare&logoColor=white)
+
+> *"Give me your tired, your poor, your huddled free-tier APIs yearning to breathe free."* 
 
 ---
 
@@ -31,10 +34,6 @@ Free tokens used  : ████████████████████
 Money spent       : █░░░░░░░░░░░░░░░░░░░  2%  (mostly electricity)
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
 ```
-
-### 💬 The Scavenger's Oath
-
-*"Give me your tired, your poor, your huddled free-tier APIs yearning to breathe free."*
 
 ---
 
