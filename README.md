@@ -26,13 +26,11 @@ while tokens_available():
         cooldown()
 ```
 
-> "The rate limit is just a suggestion, right?"
+> *"The rate limit is just a suggestion, right?"*
 
 ### 🔭 Current Scavenging Mission
 
-□ Find a free vector DB that doesn't ask for my credit card
-□ Convince myself that "self-hosted" means "free forever"
-□ Wait for GPT-5 beta to drop so I can refresh the signup page 200 times
+- Keep improving the Stella_project with free tokens
 
 ### 📊 Scavenger Stats
 
@@ -42,10 +40,10 @@ Money spent       : █░░░░░░░░░░░░░░░░░░░
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
 ```
 
-💬 The Scavenger's Oath
+### 💬 The Scavenger's Oath
 *"Give me your tired, your poor, your huddled free-tier APIs yearning to breathe free."*
 
-📫 Reach Me
+### 📫 Reach Me
 📧 @qq.com (the + is for tracking who sells my data)
 🔄 Last updated: Whenever I find a new free credit
 
