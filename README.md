@@ -1,25 +1,33 @@
-🗑️ Hi, I'm a Cyber Scavenger
+## 🗑️ Hi, I'm a Cyber Scavenger
 
-Hunting down every free token like digital dumpster gold.
-🏴‍☠️ *No subscription is safe. No trial is too short. No student pack is left unclaimed.*
+> *Hunting down every free token like digital dumpster gold.*  
+> 🏴‍☠️ No subscription is safe. No trial is too short. No student pack is left unclaimed.
 
-🧰 My Scavenger Toolkit
+---
 
-Category	Treasures I've Salvaged
-LLM Tokens	OpenAI free credits · Claude trial · Gemini Pro promo · Groq playground
-CI/CD	GitHub Actions · GitLab CI free minutes · CircleCI trial
-APIs	Anything with a "Hobby Plan" or "Beta = Free"
+### 🧰 My Scavenger Toolkit
 
-📜 My Daily Loop
+| Category | Treasures I've Salvaged |
+|----------|--------------------------|
+| **LLM Tokens** | OpenAI free credits · Claude trial · Gemini Pro promo · Groq playground |
+| **Cloud Compute** | AWS Free Tier · GCP $300 · Oracle Always Free · Fly.io hobby |
+| **CI/CD** | GitHub Actions · GitLab CI free minutes · CircleCI trial |
+| **Domains** | .tk · .ml · eu.org · any DynDNS that still breathes |
+| **APIs** | Anything with a "Hobby Plan" or "Beta = Free" |
 
-'''python
+---
+
+### 📜 My Daily Loop
+
+```python
 while tokens_available():
     claim()
     experiment()
     if rate_limited():
         rotate_identity()   # kidding... unless you're reading this, OpenAI
         cooldown()
-'''
+```
+
 "The rate limit is just a suggestion, right?"
 
  🔭 Current Scavenging Mission
@@ -30,11 +38,11 @@ while tokens_available():
 
 📊 Scavenger Stats
 
-'''text
+```text
 Free tokens used  : ████████████████████ 98%
 Money spent       : █░░░░░░░░░░░░░░░░░░░  2%  (mostly coffee)
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
-'''
+```
 
 💬 The Scavenger's Oath
 *"Give me your tired, your poor, your huddled free-tier APIs yearning to breathe free."*
