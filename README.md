@@ -31,7 +31,7 @@ while (tokens_available()) {
 
 ```text
 Free tokens used  : ████████████████████ 98%
-Money spent       : █░░░░░░░░░░░░░░░░░░░  2%  (mostly electricity，energy drink & regret)
+Money spent       : █░░░░░░░░░░░░░░░░░░░  2%  (coffee & regret)
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
 ```
 ### 📫 Reach Me
