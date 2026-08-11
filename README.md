@@ -19,7 +19,7 @@ while (tokens_available()) {
     claim();
     experiment();
     if (rate_limited()) {
-        rotate_email();   // # this is a joke. unless you're from OpenAI，Deepseek or Gemini.
+        rotate_email();   // # this is a joke. unless you're from OpenAI，Deepseek or Google.
         sleep(3600);
     }
 }
