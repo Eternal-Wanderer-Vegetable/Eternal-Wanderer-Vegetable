@@ -31,8 +31,6 @@ Money spent       : █░░░░░░░░░░░░░░░░░░░
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
 ```
 
----
-
 ### 📫 Reach Me
 
 - 📧 enoa_devteam@163.com
