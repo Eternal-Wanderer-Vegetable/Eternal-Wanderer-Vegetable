@@ -37,8 +37,7 @@ Repos with ads    : ░░░░░░░░░░░░░░░░░░░░
 ### 📫 Reach Me
 
 - 📧 1694717255+@qq.com (if you sell this, at least split the profit)
-- 🔄 Last updated: Whenever I find a new free credit(or fresh vegetables)
-
+- 🔄 Last updated: Whenever I find a new free credit (or a will to live)
 
 
 <!--
