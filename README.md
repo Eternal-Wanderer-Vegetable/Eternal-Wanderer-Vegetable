@@ -41,11 +41,13 @@ Repos with ads    : ░░░░░░░░░░░░░░░░░░░░
 ```
 
 ### 💬 The Scavenger's Oath
+
 *"Give me your tired, your poor, your huddled free-tier APIs yearning to breathe free."*
 
 ### 📫 Reach Me
-📧 @qq.com (the + is for tracking who sells my data)
-🔄 Last updated: Whenever I find a new free credit
+
+- 📧 @qq.com (the + is for tracking who sells my data)
+- 🔄 Last updated: Whenever I find a new free credit
 
 
 
