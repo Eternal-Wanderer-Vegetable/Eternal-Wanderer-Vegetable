@@ -18,12 +18,14 @@
 ### 📜 My Daily Loop
 
 ```python
-while tokens_available():
-    claim()
-    experiment()
-    if rate_limited():
-        rotate_identity()   # kidding... unless you're reading this, OpenAI
-        cooldown()
+while (tokens_available()) {
+    claim();
+    experiment();
+    if (rate_limited()) {
+        rotate_email();   // just kidding... unless?
+        sleep(3600);
+    }
+}
 ```
 
 > *"The rate limit is just a suggestion, right?"*
