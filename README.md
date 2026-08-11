@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi, I'm a Cyber Scavenger
 
 ![Cyber Scavenger](https://img.shields.io/badge/Cyber_Scavenger-FF6B00?style=for-the-badge&logo=github&logoColor=white)
@@ -5,7 +6,7 @@
 ![Token Hoarder Lv.99](https://img.shields.io/badge/Token_Hoarder_Lv.99-8A2BE2?style=for-the-badge&logo=stackshare&logoColor=white)
 
 > *"Give me your tired, your poor, your huddled free-tier APIs yearning to breathe free."* 
-
+</div>
 ---
 
 ### 📜 My Daily Loop
