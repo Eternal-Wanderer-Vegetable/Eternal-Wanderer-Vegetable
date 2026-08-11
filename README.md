@@ -30,7 +30,7 @@ while tokens_available():
 
 ### 🔭 Current Scavenging Mission
 
-- Keep improving the Stella_project with free tokens
+- Keep improving the Stella_project with free tokens...
 
 ### 📊 Scavenger Stats
 
@@ -43,6 +43,8 @@ Repos with ads    : ░░░░░░░░░░░░░░░░░░░░
 ### 💬 The Scavenger's Oath
 
 *"Give me your tired, your poor, your huddled free-tier APIs yearning to breathe free."*
+
+---
 
 ### 📫 Reach Me
 
