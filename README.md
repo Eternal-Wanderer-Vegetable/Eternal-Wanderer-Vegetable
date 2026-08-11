@@ -5,16 +5,6 @@
 
 ---
 
-### 🧰 My Scavenger Toolkit
-
-| Category | Treasures I've Salvaged |
-|----------|--------------------------|
-| **LLM Tokens** | OpenAI free credits · Claude trial · Gemini Pro promo · Groq playground |
-| **CI/CD** | GitHub Actions · GitLab CI free minutes · CircleCI trial |
-| **APIs** | Anything with a "Hobby Plan" or "Beta = Free" |
-
----
-
 ### 📜 My Daily Loop
 
 ```python
