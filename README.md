@@ -41,11 +41,13 @@ Repos with ads    : ░░░░░░░░░░░░░░░░░░░░
 ```
 
 ### 💬 The Scavenger's Oath
+
 *"Give me your tired, your poor, your huddled free-tier APIs yearning to breathe free."*
 
 ### 📫 Reach Me
-📧 enoa_devteam@163.com
-🔄 Last updated: Whenever I find a new free credit
+
+- 📧 enoa_devteam@163.com
+- 🔄 Last updated: Whenever I find a new free credit
 
 
 
