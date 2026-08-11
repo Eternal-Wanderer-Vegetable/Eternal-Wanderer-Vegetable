@@ -19,7 +19,7 @@ while (tokens_available()) {
     claim();
     experiment();
     if (rate_limited()) {
-        rotate_email();   // just kidding... unless?
+        rotate_email();   // # this is a joke. unless you're from OpenAI，Deepseek or Gemini.
         sleep(3600);
     }
 }
@@ -31,13 +31,13 @@ while (tokens_available()) {
 
 ```text
 Free tokens used  : ████████████████████ 98%
-Money spent       : █░░░░░░░░░░░░░░░░░░░  2%  (mostly electricity)
+Money spent       : █░░░░░░░░░░░░░░░░░░░  2%  (electricity，energy drink & regret)
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
 ```
 ### 📫 Reach Me
 
-- 📧 1694717255+@qq.com (the + is for tracking who sells my data)
-- 🔄 Last updated: Whenever I find a new free credit
+- 📧 1694717255+@qq.com (if you sell this, at least split the profit)
+- 🔄 Last updated: Whenever I find a new free credit(or fresh vegetables)
 
 
 
