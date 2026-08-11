@@ -6,7 +6,7 @@
 ![Free Tier Architect](https://img.shields.io/badge/Free_Tier_Architect-2EA043?style=for-the-badge&logo=vercel&logoColor=white)
 ![Token Hoarder Lv.99](https://img.shields.io/badge/Token_Hoarder_Lv.99-8A2BE2?style=for-the-badge&logo=stackshare&logoColor=white)
 
-*"Give me your tired, your poor, your huddled free-tier APIs yearning to breathe free."*
+*"Give me your tired, your poor, your huddled free-tier tokens yearning to breathe free."*
  
 </div>
 
