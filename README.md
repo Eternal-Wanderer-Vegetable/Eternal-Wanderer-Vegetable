@@ -1,4 +1,4 @@
-## 🗑️ Hi, I'm a Cyber Scavenger
+## Hi, I'm a Cyber Scavenger
 
 ![Cyber Scavenger](https://img.shields.io/badge/Cyber_Scavenger-FF6B00?style=for-the-badge&logo=github&logoColor=white)
 ![Free Tier Architect](https://img.shields.io/badge/Free_Tier_Architect-2EA043?style=for-the-badge&logo=vercel&logoColor=white)
@@ -30,7 +30,6 @@ Free tokens used  : ████████████████████
 Money spent       : █░░░░░░░░░░░░░░░░░░░  2%  (mostly electricity)
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
 ```
-
 ### 📫 Reach Me
 
 - 📧 1694717255+@qq.com (the + is for tracking who sells my data)
