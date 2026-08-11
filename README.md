@@ -10,9 +10,7 @@
 | Category | Treasures I've Salvaged |
 |----------|--------------------------|
 | **LLM Tokens** | OpenAI free credits · Claude trial · Gemini Pro promo · Groq playground |
-| **Cloud Compute** | AWS Free Tier · GCP $300 · Oracle Always Free · Fly.io hobby |
 | **CI/CD** | GitHub Actions · GitLab CI free minutes · CircleCI trial |
-| **Domains** | .tk · .ml · eu.org · any DynDNS that still breathes |
 | **APIs** | Anything with a "Hobby Plan" or "Beta = Free" |
 
 ---
@@ -28,19 +26,19 @@ while tokens_available():
         cooldown()
 ```
 
-"The rate limit is just a suggestion, right?"
+> "The rate limit is just a suggestion, right?"
 
- 🔭 Current Scavenging Mission
+### 🔭 Current Scavenging Mission
 
 □ Find a free vector DB that doesn't ask for my credit card
 □ Convince myself that "self-hosted" means "free forever"
 □ Wait for GPT-5 beta to drop so I can refresh the signup page 200 times
 
-📊 Scavenger Stats
+### 📊 Scavenger Stats
 
 ```text
 Free tokens used  : ████████████████████ 98%
-Money spent       : █░░░░░░░░░░░░░░░░░░░  2%  (mostly coffee)
+Money spent       : █░░░░░░░░░░░░░░░░░░░  2%  (mostly electricity)
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
 ```
 
