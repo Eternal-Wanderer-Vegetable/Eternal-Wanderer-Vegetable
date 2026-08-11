@@ -23,10 +23,6 @@ while (tokens_available()) {
 
 > *"The rate limit is just a suggestion, right?"*
 
-### 🔭 Current Scavenging Mission
-
-- Keep improving the Stella_project with free tokens...
-
 ### 📊 Scavenger Stats
 
 ```text
