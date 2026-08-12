@@ -42,7 +42,7 @@ Repos with ads    : ░░░░░░░░░░░░░░░░░░░░
 ```
 ### 📫 Reach Me
 
-- 📧 1694717255 + @qq.com
+- 📧 1694717255@qq.com
     - If you sell this, at least split the profit.
     - **If you're an HR/Collaborator with interesting AI/Python projects, serious emails are highly welcomed!**
 - 🔄 Last updated: Whenever I find a new free credit (or a will to live)
