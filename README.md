@@ -30,7 +30,7 @@ while (tokens_available()) {
         sleep(3600);
     }
 }
-
+```
 > *"The rate limit is just a suggestion, right?"*
 
 ### 📊 Scavenger Stats
