@@ -25,14 +25,12 @@
 ### 📜 My Daily Loop
 
 ```python
-while (tokens_available()) {
+while (tokens_available()):
     claim();
     experiment();
-    if (rate_limited()) {
+    if (rate_limited()):
         rotate_email();   // # this is a joke. unless you're from OpenAI, DeepSeek or Google.
         sleep(3600);
-    }
-}
 ```
 > *"The rate limit is just a suggestion, right?"*
 
