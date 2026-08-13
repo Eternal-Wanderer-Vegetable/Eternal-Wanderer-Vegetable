@@ -1,3 +1,6 @@
+<div align="right">
+  <a href="./README_CN.md"><b>🇨🇳 中文</b></a> | <b>🇬🇧 English</b>
+</div>
 <div align="center">
 
 ## Eternal-Wanderer-Vegetable’s Bio
