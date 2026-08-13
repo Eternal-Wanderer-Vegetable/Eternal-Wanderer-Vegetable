@@ -10,7 +10,7 @@
 ![Free Tier Architect](https://img.shields.io/badge/Free_Tier_Architect-2EA043?style=for-the-badge&logo=vercel&logoColor=white)
 ![Token Hoarder Lv.99](https://img.shields.io/badge/Token_Hoarder_Lv.99-8A2BE2?style=for-the-badge&logo=stackshare&logoColor=white)
 
-*"把你们疲惫的、贫穷的、渴望自由呼吸的免费 Token 都交给我吧。"*
+*"Give me your tired, your poor, your huddled free-tier tokens yearning to breathe free."*
 
 <!-- 🛠️ 技术栈 -->
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
