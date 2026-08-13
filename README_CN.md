@@ -27,11 +27,11 @@
 
 ```python
 while (tokens_available()):
-    claim()              # 领取免费额度
-    experiment()         # 开始搞事情
-    if rate_limited():   # 触发速率限制
-        rotate_email()   # 换个邮箱（开玩笑的，除非你是 OpenAI、DeepSeek 或 Google 的监管）
-        sleep(3600)      # 睡一小时等解封
+    claim()                  # 领取免费额度
+    experiment()             # 开始搞事情
+    if rate_limited():       # 触发速率限制
+        rotate_email()       # 换个邮箱（开玩笑的，除非你是 OpenAI、DeepSeek 或 Google 的监管）
+        sleep(3600)          # 睡一小时等解封
 ```
 > *“速率限制这玩意儿，应该只是个建议吧？”*
 
@@ -45,6 +45,6 @@ while (tokens_available()):
 ### 📫 联系方式
 
 - 📧 1694717255@qq.com
-    - 如果你倒卖这个邮箱，记得至少分我一半利润。（骗你的，根本没人看，怎么会有人卖呢:D）
+    - 如果你倒卖这个邮箱，记得至少分我一半利润。（骗你的，根本没人看，怎么会有人拿去卖呢:D）
     - **如果你是 HR / 合作方 ，且手头有有趣的 AI 或 Python 项目，非常欢迎正经来信沟通！**
 - 🔄 上一次更新：找到了新的免费额度（或者重拾对生活的希望）时
