@@ -6,9 +6,9 @@
 
 ## Eternal-Wanderer-Vegetable 的个人主页
 
-![赛博拾荒者](https://img.shields.io/badge/赛博拾荒者-FF6B00?style=for-the-badge&logo=github&logoColor=white)
-![免费层级架构师](https://img.shields.io/badge/免费层级架构师-2EA043?style=for-the-badge&logo=vercel&logoColor=white)
-![Token_囤积狂_Lv.99](https://img.shields.io/badge/Token_囤积狂_Lv.99-8A2BE2?style=for-the-badge&logo=stackshare&logoColor=white)
+![Cyber Scavenger](https://img.shields.io/badge/Cyber_Scavenger-FF6B00?style=for-the-badge&logo=github&logoColor=white)
+![Free Tier Architect](https://img.shields.io/badge/Free_Tier_Architect-2EA043?style=for-the-badge&logo=vercel&logoColor=white)
+![Token Hoarder Lv.99](https://img.shields.io/badge/Token_Hoarder_Lv.99-8A2BE2?style=for-the-badge&logo=stackshare&logoColor=white)
 
 *"把你们疲惫的、贫穷的、渴望自由呼吸的免费 Token 都交给我吧。"*
 
@@ -35,16 +35,16 @@ while (tokens_available()):
 ```
 > *“速率限制这玩意儿，应该只是个建议吧？”*
 
-### 📊 Scavenger Stats
+### 📊 经济数据统计
 
 ```text
 免费 Token 使用率     ████████████████████ 98%
 个人资金支出          █░░░░░░░░░░░░░░░░░░░  2%  (其实绝大多数是电费)
 带广告的项目          ░░░░░░░░░░░░░░░░░░░░  0%  (有人赞助吗？没有？好吧)
 ```
-### 📫 Reach Me
+### 📫 联系方式
 
 - 📧 1694717255@qq.com
     - 如果你倒卖这个邮箱，记得至少分我一半利润。（骗你的，根本没人看，怎么会有人卖呢:D）
     - **如果你是 HR / 合作方 ，且手头有有趣的 AI 或 Python 项目，非常欢迎正经来信沟通！**
-- 🔄 上一次更新：我找到了新的免费额度（或者重拾对生活的希望）时
+- 🔄 上一次更新：找到了新的免费额度（或者重拾对生活的希望）时
