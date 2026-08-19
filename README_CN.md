@@ -12,12 +12,12 @@
 
 *"Give me your tired, your poor, your huddled free-tier tokens yearning to breathe free."*
 
-<!-- 🛠️ 技术栈 -->
+<!-- 🛠️ 技术栈 (单行图标，又好看又不占地方) -->
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 
 </div>
 
