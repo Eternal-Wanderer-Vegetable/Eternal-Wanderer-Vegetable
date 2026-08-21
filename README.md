@@ -45,7 +45,7 @@ Repos with ads    : ░░░░░░░░░░░░░░░░░░░░
 
 - 📧 1694717255@qq.com
     - If you flip this email, I want 50%. (Kidding — who even reads these? No one's buying this. :D)
-    - **If you're an HR/Collaborator with interesting AI Agent projects, serious emails are highly welcomed!**
+    - **If you're an HR/Collaborator with interesting AI Agent/Python/Rust projects, serious emails are highly welcomed!**
 - 🔄 Last updated: Whenever I find a new free credit (or a will to live)
 
 
