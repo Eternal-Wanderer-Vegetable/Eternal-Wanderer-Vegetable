@@ -30,7 +30,7 @@ while (tokens_available()):
     claim()                  # 领取免费额度
     experiment()             # 开始搞事情
     if rate_limited():       # 触发速率限制
-        rotate_email()       # 换个邮箱（开玩笑的，除非你是 OpenAI、DeepSeek 或 Google 的监管）
+        rotate_email()       # 换个邮箱（开玩笑的，除非你是 OpenAI、DeepSeek、Google或者Anthropic的监管）
         sleep(3600)          # 睡一小时等解封
 ```
 > *“速率限制这玩意儿，应该只是个建议吧？”*
