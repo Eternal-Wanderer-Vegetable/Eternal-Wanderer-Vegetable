@@ -29,7 +29,7 @@ while (tokens_available()):
     claim();
     experiment();
     if (rate_limited()):
-        rotate_email();   // # this is a joke. unless you're from OpenAI, DeepSeek or Google.
+        rotate_email();   // # this is a joke. unless you're from OpenAI, DeepSeek, Google or Anthropic.
         sleep(3600);
 ```
 > *"The rate limit is just a suggestion, right?"*
