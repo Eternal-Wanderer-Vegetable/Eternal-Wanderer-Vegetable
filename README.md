@@ -38,8 +38,8 @@ while (tokens_available()):
 ### 📊 Scavenger Stats
 
 ```text
-Free tokens used  : ███████████████████░  90%
-Money spent       : █░░░░░░░░░░░░░░░░░░░  10%  (coffee & regret)
+Free tokens used  : ███████████████████░ 90%
+Money spent       : █░░░░░░░░░░░░░░░░░░░ 10%  (coffee & regret)
 Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
 ```
 ### 📫 Reach Me
