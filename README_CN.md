@@ -14,8 +14,9 @@
 
 <!-- 🛠️ 技术栈 (单行图标，又好看又不占地方) -->
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 
@@ -38,8 +39,8 @@ while (tokens_available()):
 ### 📊 收支统计
 
 ```text
-免费 Token 使用率     ████████████████████ 98%
-个人资金支出          █░░░░░░░░░░░░░░░░░░░  2%  (其实绝大多数是电费)
+免费 Token 使用率     ███████████████████░ 90%
+个人资金支出          █░░░░░░░░░░░░░░░░░░░ 10%  (其实绝大多数是电费)
 带广告的项目          ░░░░░░░░░░░░░░░░░░░░  0%  (有人赞助吗？没有？好吧)
 ```
 ### 📫 联系方式
