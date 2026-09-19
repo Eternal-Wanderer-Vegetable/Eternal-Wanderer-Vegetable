@@ -6,11 +6,7 @@
 
 ## Eternal-Wanderer-Vegetable 的个人主页
 
-![Cyber Scavenger](https://img.shields.io/badge/Cyber_Scavenger-FF6B00?style=for-the-badge&logo=github&logoColor=white)
-![Free Tier Architect](https://img.shields.io/badge/Free_Tier_Architect-2EA043?style=for-the-badge&logo=vercel&logoColor=white)
-![Token Hoarder Lv.99](https://img.shields.io/badge/Token_Hoarder_Lv.99-8A2BE2?style=for-the-badge&logo=stackshare&logoColor=white)
-
-*"Give me your tired, your poor, your huddled free-tier tokens yearning to breathe free."*
+*“我们做这些事，不是因为它们简单，而是因为我们当初以为它们会很简单。”*
 
 <!-- 🛠️ 技术栈 (单行图标，又好看又不占地方) -->
 <!-- 🛠️ 技术栈 (点击图标可访问官网) -->
