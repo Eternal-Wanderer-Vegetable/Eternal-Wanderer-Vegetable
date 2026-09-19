@@ -31,7 +31,7 @@ while (tokens_available()):
 ```
 > *"The rate limit is just a suggestion, right?"*
 
-### 📊 Scavenger Stats
+### 📊 Stats
 
 ```text
 Free tokens used  : ███████████████████░ 90%
