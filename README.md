@@ -5,7 +5,7 @@
 
 ## Eternal-Wanderer-Vegetable’s Bio
 
-*"We do these things not because they are easy, but because we thought they were going to be easy."*
+*"We do these things not because they are easy, but to make them as easy as they should be."*
 
 <!-- 🛠️ 技术栈 (点击图标可访问官网) -->
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
