@@ -31,13 +31,6 @@ while (tokens_available()):
 ```
 > *"The rate limit is just a suggestion, right?"*
 
-### 📊 Stats
-
-```text
-Free tokens used  : ███████████████████░ 90%
-Money spent       : █░░░░░░░░░░░░░░░░░░░ 10%  (coffee & regret)
-Repos with ads    : ░░░░░░░░░░░░░░░░░░░░  0%  (sponsor me? no? okay)
-```
 ### 📫 Reach Me
 
 - 📧 enoa_devteam@163.com
