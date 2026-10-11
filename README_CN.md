@@ -17,6 +17,8 @@
 <!-- 02 / EXPERIMENT REGISTRY -->
 <img src="./assets/section-02-registry.svg" alt="02 — 实验登记册" width="100%" />
 
+<!-- 更新项目：直接修改下面的 Markdown 表格行即可，无需编辑 SVG；并同步更新 README.md。 -->
+
 | 编号 | 实验项目 | 实验记录 |
 | :--- | :--- | :--- |
 | `01` | **[Stella →](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | QQ 群 AI Agent，兼容本地与在线大模型，重视可扩展能力与运行成本。 |
@@ -42,7 +44,13 @@ while tokens_available():
 <!-- 04 / OPEN CHANNEL -->
 <img src="./assets/section-04-contact.svg" alt="04 — 通信频道" width="100%" />
 
-**工具栈：** `Python` · `Rust` · `TypeScript` · `JavaScript` · `Vue`
+**Toolchain / 技术栈**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-20232A?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 
 欢迎就 **AI Agent**、**本地优先软件**、**开发者工具**，或者任何听起来有点不太合理但很有趣的想法进行交流与合作。
 
