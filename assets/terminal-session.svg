@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="275" viewBox="0 0 1200 275" role="img" aria-labelledby="title description">
+<title id="title">Astral Terminal — Identity Session</title>
+<desc id="description">A stylized terminal session introducing Eternal-Wanderer-Vegetable, interests and the curiosity engine.</desc>
+<rect x="1" y="1" width="1198" height="273" rx="6" fill="#0D1117" stroke="#435362" stroke-width="2"/>
+<path d="M7 1H1193Q1199 1 1199 7V43H1V7Q1 1 7 1Z" fill="#17212B"/>
+<path d="M1 43H1199" stroke="#435362" stroke-width="1"/>
+<circle cx="27" cy="23" r="5" fill="#D96A4A"/>
+<circle cx="46" cy="23" r="5" fill="#677986"/>
+<circle cx="65" cy="23" r="5" fill="#465766"/>
+<text x="85" y="28" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" fill="#9CAAB5">observatory — session 001</text>
+<text x="1172" y="28" text-anchor="end" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="12" fill="#9CAAB5">● LINK ESTABLISHED</text>
+<g font-family="DejaVu Sans Mono, Consolas, monospace" font-size="20">
+  <text x="35" y="85" fill="#D96A4A">astral@observatory<tspan fill="#9CAAB5">:~$</tspan><tspan fill="#E6EDF3"> whoami</tspan></text>
+  <text x="35" y="124" fill="#9CAAB5">HANDLE</text><text x="248" y="124" fill="#E6EDF3">Eternal-Wanderer-Vegetable</text>
+  <text x="35" y="155" fill="#9CAAB5">INTERESTS</text><text x="248" y="155" fill="#E6EDF3">AI agents / local-first / odd ideas</text>
+  <text x="35" y="186" fill="#9CAAB5">METHOD</text><text x="248" y="186" fill="#E6EDF3">Experiment first. Debug eventually.</text>
+  <text x="35" y="225" fill="#D96A4A">[ OK ]</text><text x="137" y="225" fill="#E6EDF3">Curiosity engine online.</text>
+  <text x="35" y="252" fill="#D96A4A">[WARN]</text><text x="137" y="252" fill="#9CAAB5">Common sense module not found.</text>
+</g>
+</svg>

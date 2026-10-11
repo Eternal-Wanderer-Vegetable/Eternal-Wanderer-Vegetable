@@ -1,39 +1,80 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Astral Terminal — Eternal Wanderer</title>
-<desc id="desc">A nocturnal astronomical observatory blended with a computer terminal, in midnight blue with stardust gold accents.</desc>
-<defs>
- <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E1929"/><stop offset="0.52" stop-color="#101D30"/><stop offset="1" stop-color="#050D19"/></linearGradient>
- <radialGradient id="nebula" cx="69%" cy="44%" r="65%"><stop offset="0" stop-color="#1B4055" stop-opacity=".64"/><stop offset=".48" stop-color="#142B3E" stop-opacity=".32"/><stop offset="1" stop-color="#07101A" stop-opacity="0"/></radialGradient>
- <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D5BF90" stop-opacity="0"/><stop offset=".35" stop-color="#D5BF90" stop-opacity=".65"/><stop offset="1" stop-color="#D5BF90" stop-opacity=".1"/></linearGradient>
-</defs>
-<rect width="1200" height="300" rx="12" fill="url(#sky)"/>
-<rect width="1200" height="300" rx="12" fill="url(#nebula)"/>
-<g stroke="#93B0C5" stroke-opacity=".075" stroke-width="1">
-<line x1="0" y1="0" x2="0" y2="300"/><line x1="40" y1="0" x2="40" y2="300"/><line x1="80" y1="0" x2="80" y2="300"/><line x1="120" y1="0" x2="120" y2="300"/><line x1="160" y1="0" x2="160" y2="300"/><line x1="200" y1="0" x2="200" y2="300"/><line x1="240" y1="0" x2="240" y2="300"/><line x1="280" y1="0" x2="280" y2="300"/><line x1="320" y1="0" x2="320" y2="300"/><line x1="360" y1="0" x2="360" y2="300"/><line x1="400" y1="0" x2="400" y2="300"/><line x1="440" y1="0" x2="440" y2="300"/><line x1="480" y1="0" x2="480" y2="300"/><line x1="520" y1="0" x2="520" y2="300"/><line x1="560" y1="0" x2="560" y2="300"/><line x1="600" y1="0" x2="600" y2="300"/><line x1="640" y1="0" x2="640" y2="300"/><line x1="680" y1="0" x2="680" y2="300"/><line x1="720" y1="0" x2="720" y2="300"/><line x1="760" y1="0" x2="760" y2="300"/><line x1="800" y1="0" x2="800" y2="300"/><line x1="840" y1="0" x2="840" y2="300"/><line x1="880" y1="0" x2="880" y2="300"/><line x1="920" y1="0" x2="920" y2="300"/><line x1="960" y1="0" x2="960" y2="300"/><line x1="1000" y1="0" x2="1000" y2="300"/><line x1="1040" y1="0" x2="1040" y2="300"/><line x1="1080" y1="0" x2="1080" y2="300"/><line x1="1120" y1="0" x2="1120" y2="300"/><line x1="1160" y1="0" x2="1160" y2="300"/><line x1="1200" y1="0" x2="1200" y2="300"/>
-<line x1="0" y1="0" x2="1200" y2="0"/><line x1="0" y1="40" x2="1200" y2="40"/><line x1="0" y1="80" x2="1200" y2="80"/><line x1="0" y1="120" x2="1200" y2="120"/><line x1="0" y1="160" x2="1200" y2="160"/><line x1="0" y1="200" x2="1200" y2="200"/><line x1="0" y1="240" x2="1200" y2="240"/><line x1="0" y1="280" x2="1200" y2="280"/>
+<title id="title">Astral Terminal — Swiss Edition V2.2</title>
+<desc id="desc">A refined dark Swiss-inspired GitHub banner with lighter typography and a dimensional orbital diagram. Labels are cleaner and orbital motion is continuously looping with more natural desynchronization.</desc>
+<style>
+  .headline { font-family: Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 620; }
+  .statement { font-family: Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 500; }
+  .mono { font-family: 'DejaVu Sans Mono', 'Liberation Mono', Menlo, Consolas, monospace; }
+</style>
+<rect width="1200" height="300" fill="#0D1117"/>
+<g stroke="#51606D" stroke-width=".75" opacity=".13">
+  <line x1="54" y1="44" x2="54" y2="258"/>
+  <line x1="585" y1="44" x2="585" y2="258"/>
+  <line x1="1148" y1="44" x2="1148" y2="258"/>
 </g>
-<g><circle cx="92" cy="154" r="1.4" fill="#DDE8F7" opacity="0.11"/><circle cx="308" cy="244" r="0.6" fill="#DDE8F7" opacity="0.15"/><circle cx="771" cy="57" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="942" cy="263" r="0.6" fill="#DDE8F7" opacity="0.40"/><circle cx="53" cy="271" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="899" cy="198" r="0.6" fill="#DDE8F7" opacity="0.54"/><circle cx="1134" cy="230" r="0.9" fill="#DDE8F7" opacity="0.62"/><circle cx="820" cy="98" r="0.6" fill="#DDE8F7" opacity="0.18"/><circle cx="132" cy="62" r="0.6" fill="#DDE8F7" opacity="0.15"/><circle cx="269" cy="200" r="0.6" fill="#DDE8F7" opacity="0.20"/><circle cx="328" cy="57" r="0.6" fill="#DDE8F7" opacity="0.24"/><circle cx="342" cy="270" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="1029" cy="73" r="0.9" fill="#DDE8F7" opacity="0.54"/><circle cx="806" cy="267" r="0.6" fill="#DDE8F7" opacity="0.62"/><circle cx="570" cy="101" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="785" cy="40" r="0.6" fill="#DDE8F7" opacity="0.25"/><circle cx="114" cy="39" r="0.6" fill="#DDE8F7" opacity="0.20"/><circle cx="396" cy="39" r="0.6" fill="#DDE8F7" opacity="0.24"/><circle cx="353" cy="159" r="0.9" fill="#DDE8F7" opacity="0.28"/><circle cx="577" cy="47" r="1.4" fill="#DDE8F7" opacity="0.33"/><circle cx="1083" cy="60" r="0.6" fill="#DDE8F7" opacity="0.62"/><circle cx="139" cy="56" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="950" cy="177" r="0.6" fill="#DDE8F7" opacity="0.25"/><circle cx="690" cy="278" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="912" cy="93" r="0.9" fill="#DDE8F7" opacity="0.40"/><circle cx="272" cy="49" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="668" cy="33" r="0.6" fill="#DDE8F7" opacity="0.54"/><circle cx="563" cy="196" r="0.6" fill="#DDE8F7" opacity="0.37"/><circle cx="394" cy="44" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="1144" cy="66" r="0.6" fill="#DDE8F7" opacity="0.25"/><circle cx="622" cy="261" r="0.9" fill="#DDE8F7" opacity="0.33"/><circle cx="754" cy="230" r="0.6" fill="#DDE8F7" opacity="0.40"/><circle cx="98" cy="250" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="863" cy="50" r="0.6" fill="#DDE8F7" opacity="0.54"/><circle cx="747" cy="73" r="0.6" fill="#DDE8F7" opacity="0.62"/><circle cx="190" cy="86" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="643" cy="63" r="0.9" fill="#DDE8F7" opacity="0.25"/><circle cx="1110" cy="225" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="921" cy="27" r="1.4" fill="#DDE8F7" opacity="0.40"/><circle cx="314" cy="9" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="230" cy="71" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="272" cy="16" r="0.6" fill="#DDE8F7" opacity="0.37"/><circle cx="705" cy="68" r="0.9" fill="#DDE8F7" opacity="0.18"/><circle cx="1104" cy="263" r="0.6" fill="#DDE8F7" opacity="0.25"/><circle cx="544" cy="241" r="0.6" fill="#DDE8F7" opacity="0.20"/><circle cx="710" cy="205" r="0.6" fill="#DDE8F7" opacity="0.40"/><circle cx="192" cy="25" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="204" cy="113" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="842" cy="107" r="0.9" fill="#DDE8F7" opacity="0.62"/><circle cx="840" cy="141" r="0.6" fill="#DDE8F7" opacity="0.18"/><circle cx="851" cy="175" r="0.6" fill="#DDE8F7" opacity="0.25"/><circle cx="828" cy="185" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="120" cy="103" r="0.6" fill="#DDE8F7" opacity="0.24"/><circle cx="1114" cy="99" r="0.6" fill="#DDE8F7" opacity="0.47"/><circle cx="398" cy="34" r="0.9" fill="#DDE8F7" opacity="0.33"/><circle cx="492" cy="161" r="0.6" fill="#DDE8F7" opacity="0.37"/><circle cx="468" cy="184" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="398" cy="118" r="1.4" fill="#DDE8F7" opacity="0.15"/><circle cx="799" cy="207" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="474" cy="39" r="0.6" fill="#DDE8F7" opacity="0.24"/><circle cx="952" cy="264" r="0.9" fill="#DDE8F7" opacity="0.47"/><circle cx="139" cy="57" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="69" cy="20" r="0.6" fill="#DDE8F7" opacity="0.37"/><circle cx="1131" cy="269" r="0.6" fill="#DDE8F7" opacity="0.18"/><circle cx="1045" cy="266" r="0.6" fill="#DDE8F7" opacity="0.25"/><circle cx="242" cy="184" r="0.6" fill="#DDE8F7" opacity="0.20"/><circle cx="553" cy="120" r="0.9" fill="#DDE8F7" opacity="0.24"/><circle cx="280" cy="237" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="814" cy="87" r="0.6" fill="#DDE8F7" opacity="0.54"/><circle cx="524" cy="11" r="0.6" fill="#DDE8F7" opacity="0.37"/><circle cx="236" cy="120" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="269" cy="220" r="0.6" fill="#DDE8F7" opacity="0.15"/><circle cx="425" cy="200" r="0.9" fill="#DDE8F7" opacity="0.20"/><circle cx="884" cy="62" r="0.6" fill="#DDE8F7" opacity="0.40"/><circle cx="44" cy="103" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="784" cy="67" r="0.6" fill="#DDE8F7" opacity="0.54"/><circle cx="686" cy="168" r="1.4" fill="#DDE8F7" opacity="0.62"/><circle cx="548" cy="283" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="288" cy="284" r="0.9" fill="#DDE8F7" opacity="0.15"/><circle cx="324" cy="132" r="0.6" fill="#DDE8F7" opacity="0.20"/><circle cx="422" cy="129" r="0.6" fill="#DDE8F7" opacity="0.24"/><circle cx="103" cy="54" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="563" cy="253" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="573" cy="45" r="0.6" fill="#DDE8F7" opacity="0.37"/><circle cx="1000" cy="181" r="0.9" fill="#DDE8F7" opacity="0.18"/><circle cx="305" cy="171" r="0.6" fill="#DDE8F7" opacity="0.15"/><circle cx="471" cy="13" r="0.6" fill="#DDE8F7" opacity="0.20"/><circle cx="438" cy="251" r="0.6" fill="#DDE8F7" opacity="0.24"/><circle cx="321" cy="154" r="0.6" fill="#DDE8F7" opacity="0.28"/><circle cx="1180" cy="235" r="0.6" fill="#DDE8F7" opacity="0.54"/><circle cx="626" cy="254" r="0.9" fill="#DDE8F7" opacity="0.62"/><circle cx="923" cy="165" r="0.6" fill="#DDE8F7" opacity="0.18"/><circle cx="1137" cy="257" r="0.6" fill="#DDE8F7" opacity="0.25"/><circle cx="1138" cy="227" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="902" cy="273" r="0.6" fill="#DDE8F7" opacity="0.40"/><circle cx="158" cy="117" r="1.4" fill="#DDE8F7" opacity="0.28"/><circle cx="329" cy="20" r="0.9" fill="#DDE8F7" opacity="0.33"/><circle cx="235" cy="53" r="0.6" fill="#DDE8F7" opacity="0.37"/><circle cx="487" cy="104" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="418" cy="272" r="0.6" fill="#DDE8F7" opacity="0.15"/><circle cx="137" cy="139" r="0.6" fill="#DDE8F7" opacity="0.20"/><circle cx="361" cy="256" r="0.6" fill="#DDE8F7" opacity="0.24"/><circle cx="960" cy="222" r="0.9" fill="#DDE8F7" opacity="0.47"/><circle cx="622" cy="40" r="0.6" fill="#DDE8F7" opacity="0.54"/><circle cx="714" cy="242" r="0.6" fill="#DDE8F7" opacity="0.62"/><circle cx="920" cy="144" r="0.6" fill="#DDE8F7" opacity="0.18"/><circle cx="1035" cy="79" r="0.6" fill="#DDE8F7" opacity="0.25"/><circle cx="248" cy="172" r="0.6" fill="#DDE8F7" opacity="0.20"/><circle cx="747" cy="178" r="0.9" fill="#DDE8F7" opacity="0.40"/><circle cx="761" cy="59" r="0.6" fill="#DDE8F7" opacity="0.47"/><circle cx="807" cy="237" r="0.6" fill="#DDE8F7" opacity="0.54"/><circle cx="682" cy="166" r="0.6" fill="#DDE8F7" opacity="0.62"/><circle cx="445" cy="129" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="962" cy="101" r="0.6" fill="#DDE8F7" opacity="0.25"/><circle cx="780" cy="162" r="1.4" fill="#DDE8F7" opacity="0.33"/><circle cx="903" cy="130" r="0.6" fill="#DDE8F7" opacity="0.40"/><circle cx="615" cy="277" r="0.6" fill="#DDE8F7" opacity="0.47"/><circle cx="113" cy="100" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="634" cy="74" r="0.6" fill="#DDE8F7" opacity="0.62"/><circle cx="333" cy="117" r="0.6" fill="#DDE8F7" opacity="0.11"/><circle cx="300" cy="99" r="0.9" fill="#DDE8F7" opacity="0.15"/><circle cx="1053" cy="105" r="0.6" fill="#DDE8F7" opacity="0.33"/><circle cx="548" cy="263" r="0.6" fill="#DDE8F7" opacity="0.24"/><circle cx="809" cy="279" r="0.6" fill="#DDE8F7" opacity="0.47"/><circle cx="395" cy="138" r="0.6" fill="#DDE8F7" opacity="0.33"/></g>
-<path d="M 567 298 Q 740 29 1185 99" stroke="#B6A47F" stroke-opacity=".33" fill="none" stroke-width=".9"/>
-<path d="M 680 298 Q 850 46 1198 145" stroke="#B6A47F" stroke-opacity=".19" fill="none" stroke-width=".9" stroke-dasharray="4 8"/>
-<ellipse cx="965" cy="148" rx="207" ry="88" transform="rotate(-19 965 148)" stroke="#BBA77D" stroke-opacity=".24" fill="none" stroke-width="1"/>
-<ellipse cx="965" cy="148" rx="165" ry="62" transform="rotate(27 965 148)" stroke="#84BAC7" stroke-opacity=".20" fill="none" stroke-width="1"/>
-<circle cx="1020" cy="60" r="6" fill="#D9C59A"/><circle cx="1020" cy="60" r="16" stroke="#D9C59A" stroke-opacity=".43" fill="none"/>
-<path d="M 1011 60 h-18 M 1029 60 h18 M 1020 51 v-18 M 1020 69 v18" stroke="#D9C59A" stroke-opacity=".33"/>
-<g fill="none" stroke="#A9C6D7" stroke-opacity=".34" stroke-width="1.3"><path d="M 41 42 H 72 M 41 42 V 72"/><path d="M 1159 257 H 1128 M 1159 257 V 226"/></g>
-<text x="54" y="63" fill="#B4BFCF" font-size="13" font-family="Consolas,Menlo,monospace" letter-spacing="2.5">ASTRAL TERMINAL <tspan fill="#D8C39A">//</tspan> EXPLORATION LOG</text>
-<rect x="54" y="85" width="6" height="57" rx="2" fill="#D7C298"/>
-<text x="76" y="131" fill="#F2EEE8" font-size="44" font-family="Georgia,'Times New Roman',serif" letter-spacing="2.3">ETERNAL WANDERER</text>
-<text x="78" y="168" fill="#B7C7D6" font-size="16" font-family="Consolas,Menlo,monospace" letter-spacing=".7">Exploring strange ideas across stars &amp; systems.</text>
-<line x1="54" y1="198" x2="656" y2="198" stroke="url(#line)" stroke-width="1"/>
-<text x="56" y="235" fill="#C3D0DC" font-size="14" font-family="Consolas,Menlo,monospace">&gt; status: <tspan fill="#C9BD96">experimenting</tspan><tspan fill="#D7C298">_</tspan></text>
-<text x="56" y="267" fill="#7893A8" font-size="11" font-family="Consolas,Menlo,monospace" letter-spacing="1.9">NO COORDINATES. ONLY CURIOSITY.</text>
-<g transform="translate(809 186)" opacity=".89">
- <rect x="0" y="0" width="326" height="91" rx="7" fill="#07111E" fill-opacity=".81" stroke="#7897AB" stroke-opacity=".34"/>
- <path d="M 0 24 H 326" stroke="#7897AB" stroke-opacity=".24"/>
- <circle cx="15" cy="13" r="3.5" fill="#B17D7C"/><circle cx="28" cy="13" r="3.5" fill="#C6AF80"/><circle cx="41" cy="13" r="3.5" fill="#689D9D"/>
- <text x="162" y="16" fill="#8CA3B6" font-size="10" font-family="Consolas,Menlo,monospace" text-anchor="middle">observatory@wanderer:~</text>
- <text x="17" y="45" fill="#A5C8B3" font-size="12" font-family="Consolas,Menlo,monospace">$ whoami</text>
- <text x="17" y="63" fill="#CCD8E3" font-size="12" font-family="Consolas,Menlo,monospace">builder of strange systems</text>
- <text x="17" y="80" fill="#A5C8B3" font-size="12" font-family="Consolas,Menlo,monospace">$ _</text>
+<path d="M54 45H1148" stroke="#697583" stroke-width="1" opacity=".52"/>
+<rect x="54" y="17" width="8" height="8" fill="#D96A4A"/>
+<text x="73" y="26" class="mono" font-size="12" fill="#E0E6E9" letter-spacing="1.15">ASTRAL TERMINAL <tspan fill="#D96A4A">/</tspan> 001</text>
+<text x="1147" y="26" class="mono" font-size="11" text-anchor="end" fill="#8E9CA8" letter-spacing="1.2">PERSONAL ARCHIVE</text>
+
+<text x="54" y="118" class="headline" font-size="53" letter-spacing="-1.85" fill="#E6EDF3">ETERNAL WANDERER</text>
+<text x="54" y="193" class="headline" font-size="68" letter-spacing="-2.15" fill="#D96A4A">VEGETABLE.</text>
+<path d="M54 215H548" stroke="#6C7885" stroke-width="1" opacity=".6"/>
+<text x="54" y="240" class="statement" font-size="17.5" fill="#E0E6EA" letter-spacing=".08">MAKING DIFFICULT THINGS LOOK</text>
+<text x="54" y="263" class="statement" font-size="17.5" fill="#E0E6EA" letter-spacing=".08">SUSPICIOUSLY EASY.</text>
+<text x="54" y="286" class="mono" font-size="10" fill="#84919D" letter-spacing=".6">AI AGENTS   /   LOCAL-FIRST SYSTEMS   /   STRANGE EXPERIMENTS</text>
+
+<g id="orbital-3d">
+  <path d="M792 150H1108 M947 50V252" stroke="#61707C" stroke-width=".85" stroke-dasharray="2 7" opacity=".28"/>
+  <g transform="translate(947 150) rotate(-18) scale(1 0.72)">
+    <ellipse cx="0" cy="0" rx="128" ry="128" fill="none" stroke="#5B6772" stroke-width=".9" opacity=".11"/>
+    <ellipse cx="0" cy="0" rx="92" ry="92" fill="none" stroke="#55606B" stroke-width=".8" opacity=".10"/>
+    <path d="M-113.43 -32.53 A118.00 118.00 0 0 1 97.83 -65.98" fill="none" stroke="#9AA7B4" stroke-width="1.25" opacity=".42"/>
+    <path d="M-67.98 -45.85 A82.00 82.00 0 0 1 73.70 -35.95" fill="none" stroke="#AAB7C2" stroke-width="1.15" opacity=".37"/>
+    <path d="M-29.57 -35.24 A46.00 46.00 0 0 1 43.23 -15.73" fill="none" stroke="#B5C0CB" stroke-width="1.1" opacity=".32"/>
+    <circle cx="0" cy="0" r="18.5" fill="#10171D" opacity=".9"/>
+    <circle cx="0" cy="0" r="12.2" fill="none" stroke="#7E8D98" stroke-width="1" opacity=".42"/>
+    <circle cx="0" cy="0" r="6.2" fill="none" stroke="#66727C" stroke-width=".8" opacity=".22"/>
+    <path d="M112.22 36.46 A118.00 118.00 0 0 1 -112.22 36.46" fill="none" stroke="#C7D0D8" stroke-width="1.5" opacity=".82"/>
+    <path d="M-116.21 -20.49 A118.00 118.00 0 0 1 -49.87 -106.94" fill="none" stroke="#B8C4CE" stroke-width="1.35" opacity=".62"/>
+    <path d="M72.40 38.50 A82.00 82.00 0 1 1 -69.54 -43.45" fill="none" stroke="#D2D9DF" stroke-width="1.22" opacity=".73"/>
+    <path d="M-56.96 -58.99 A82.00 82.00 0 0 1 -2.86 -81.95" fill="none" stroke="#CCD5DB" stroke-width="1.12" opacity=".54"/>
+    <path d="M37.21 27.04 A46.00 46.00 0 1 1 25.72 -38.14" fill="none" stroke="#D3DAE0" stroke-width="1.28" opacity=".86"/>
+    <path d="M-116.55 -61.97 A132.00 132.00 0 0 1 122.39 -49.45" fill="none" stroke="#46515C" stroke-width="3" opacity=".15"/>
+    <g>
+      <path d="M78.96 87.69 A118.00 118.00 0 0 1 24.53 115.42" fill="none" stroke="#D96A4A" stroke-width="4" stroke-linecap="round"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="9.2s" repeatCount="indefinite"/>
+    </g>
+    <g stroke="#A2AFB9" opacity=".48" stroke-width=".72"><line x1="-121.80" y1="-17.12" x2="-124.77" y2="-17.54"/>
+<line x1="-119.35" y1="-29.76" x2="-122.26" y2="-30.48"/>
+<line x1="-115.58" y1="-42.07" x2="-121.22" y2="-44.12"/>
+<line x1="-110.55" y1="-53.92" x2="-113.25" y2="-55.23"/>
+<line x1="-104.31" y1="-65.18" x2="-106.85" y2="-66.77"/>
+<line x1="-96.93" y1="-75.73" x2="-99.29" y2="-77.57"/>
+<line x1="-88.48" y1="-85.44" x2="-90.64" y2="-87.53"/>
+<line x1="-79.06" y1="-94.22" x2="-80.99" y2="-96.52"/>
+<line x1="-68.78" y1="-101.97" x2="-70.46" y2="-104.46"/>
+<line x1="-57.75" y1="-108.60" x2="-59.15" y2="-111.25"/>
+<line x1="-46.08" y1="-114.04" x2="-47.20" y2="-116.83"/>
+<line x1="-33.90" y1="-118.24" x2="-34.73" y2="-121.12"/></g>
+    <g>
+      <circle cx="-82" cy="0" r="3.85" fill="#F4F3EC"/>
+      <circle cx="-82" cy="0" r="7.1" fill="none" stroke="#F4F3EC" stroke-width=".8" opacity=".34"/>
+      <animateTransform attributeName="transform" type="rotate" from="35 0 0" to="395 0 0" dur="12.6s" repeatCount="indefinite"/>
+    </g>
+    <circle cx="0" cy="0" r="4.0" fill="#E8EEF2"/>
+    <circle cx="0" cy="0" r="8.4" fill="none" stroke="#A5B2BC" stroke-width=".82" opacity=".44"/>
+  </g>
+  <path d="M1033 217L1060 232" fill="none" stroke="#738290" stroke-width=".88" opacity=".72"/>
+  <circle cx="1072" cy="239" r="2.7" fill="#D96A4A"/>
+  <path d="M842 78H857 M842 78V94" stroke="#BCC7D0" stroke-width=".85" opacity=".6"/>
+  <path d="M1101 218H1117V201" stroke="#BCC7D0" stroke-width=".85" opacity=".48"/>
+  <text x="810" y="69" class="mono" font-size="10" fill="#9DA9B3" letter-spacing=".68">FIG. 01</text>
+  <text x="786" y="236" class="mono" font-size="10" fill="#8997A3" letter-spacing=".95">ORBIT / 02</text>
+  <text x="1130" y="241" class="mono" font-size="9" fill="#8997A3" letter-spacing=".5" text-anchor="end">X</text>
 </g>
+
+<path d="M710 259H1148" stroke="#697583" stroke-width=".8" opacity=".48"/>
+<circle cx="1036" cy="277" r="2.95" fill="#D96A4A" opacity=".46"><animate attributeName="opacity" values="0.46;0.95;0.46" keyTimes="0;0.5;1" dur="3.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="r" values="2.95;3.35;2.95" keyTimes="0;0.5;1" dur="3.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/></circle>
+<text x="1147" y="280.7" text-anchor="end" class="mono" font-size="11" fill="#AEB9C1" letter-spacing="1.2">SYS.ACTIVE</text>
 </svg>
