@@ -21,10 +21,10 @@ I build AI agents, developer tools, and software experiments that tend to begin 
 
 | Ref. | Experiment | Field notes |
 | :--- | :--- | :--- |
-| `01` | **[Stella →](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | Model-agnostic QQ-group AI agent. Local or online LLMs, extensible tools, and cost-conscious design. |
-| `02` | **[Caligo →](https://github.com/Eternal-Wanderer-Vegetable/Caligo)** | Experimental Rust framework for modern NTQQ protocol clients. |
-| `03` | **[Athanor Studio →](https://github.com/Eternal-Wanderer-Vegetable/Athanor_Studio)** | Structured documents, robust conversion, versioning, and information preservation. |
-| `04` | **[GunplaLab →](https://github.com/Eternal-Wanderer-Vegetable/GunplaLab)** | Gunpla intelligence, price tracking, and collection management. |
+| `01` | **[Stella](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | Model-agnostic QQ-group AI agent. Local or online LLMs, extensible tools, and cost-conscious design. |
+| `02` | **[Caligo](https://github.com/Eternal-Wanderer-Vegetable/Caligo)** | Experimental Rust framework for modern NTQQ protocol clients. |
+| `03` | **[Athanor Studio](https://github.com/Eternal-Wanderer-Vegetable/Athanor_Studio)** | Structured documents, robust conversion, versioning, and information preservation. |
+| `04` | **[GunplaLab](https://github.com/Eternal-Wanderer-Vegetable/GunplaLab)** | Gunpla intelligence, price tracking, and collection management. |
 
 <sub>`index.status: expanding` &nbsp; · &nbsp; A selection of experiments, not the full archive.</sub>
 
