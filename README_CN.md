@@ -21,10 +21,10 @@
 
 | 编号 | 实验项目 | 实验记录 |
 | :--- | :--- | :--- |
-| `01` | **[Stella →](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | QQ 群 AI Agent，兼容本地与在线大模型，重视可扩展能力与运行成本。 |
-| `02` | **[Caligo →](https://github.com/Eternal-Wanderer-Vegetable/Caligo)** | 基于 Rust 的实验性现代 NTQQ 协议客户端框架。 |
-| `03` | **[Athanor Studio →](https://github.com/Eternal-Wanderer-Vegetable/Athanor_Studio)** | 结构化文档、可靠格式转换、版本管理与信息保留。 |
-| `04` | **[GunplaLab →](https://github.com/Eternal-Wanderer-Vegetable/GunplaLab)** | 面向高达模型爱好者的情报、价格追踪与收藏管理工具。 |
+| `01` | **[Stella](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | QQ 群 AI Agent，兼容本地与在线大模型，重视可扩展能力与运行成本。 |
+| `02` | **[Caligo](https://github.com/Eternal-Wanderer-Vegetable/Caligo)** | 基于 Rust 的实验性现代 NTQQ 协议客户端框架。 |
+| `03` | **[Athanor Studio](https://github.com/Eternal-Wanderer-Vegetable/Athanor_Studio)** | 结构化文档、可靠格式转换、版本管理与信息保留。 |
+| `04` | **[GunplaLab](https://github.com/Eternal-Wanderer-Vegetable/GunplaLab)** | 面向高达模型爱好者的情报、价格追踪与收藏管理工具。 |
 
 <sub>`index.status: expanding` &nbsp; · &nbsp; 这里只展示部分代表性项目，完整档案请见仓库列表。</sub>
 
