@@ -21,12 +21,12 @@ I build AI agents, developer tools, and software experiments that tend to begin 
 
 | Ref. | Experiment | Field notes |
 | :--- | :--- | :--- |
-| `01` | **[Stella](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | Model-agnostic QQ-group AI agent. Local or online LLMs, extensible tools, and cost-conscious design. |
-| `02` | **[Caligo](https://github.com/Eternal-Wanderer-Vegetable/Caligo)** | Experimental Rust framework for modern NTQQ protocol clients. |
-| `03` | **[Athanor Studio](https://github.com/Eternal-Wanderer-Vegetable/Athanor_Studio)** | Structured documents, robust conversion, versioning, and information preservation. |
-| `04` | **[GunplaLab](https://github.com/Eternal-Wanderer-Vegetable/GunplaLab)** | Gunpla intelligence, price tracking, and collection management. |
+| `01` | **[Stella →](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | Model-agnostic QQ-group AI agent. Local or online LLMs, extensible tools, and cost-conscious design. |
+| `02` | **[Caligo →](https://github.com/Eternal-Wanderer-Vegetable/Caligo)** | Experimental Rust framework for modern NTQQ protocol clients. |
+| `03` | **[Athanor Studio →](https://github.com/Eternal-Wanderer-Vegetable/Athanor_Studio)** | Structured documents, robust conversion, versioning, and information preservation. |
+| `04` | **[Kevin_Kelly-Game →](https://github.com/Eternal-Wanderer-Vegetable/Kevin_Kelly-Game)** | Experimental harness for evolving coding agents through controlled self-rewrite, mutation, and independent evaluation. |
 
-<sub>`index.status: expanding` &nbsp; · &nbsp; A selection of experiments, not the full archive.</sub>
+<sub>`index.status: expanding` &nbsp; · &nbsp; Selected public projects from my own repositories, not the full archive.</sub>
 
 <!-- 03 / FIELD NOTES -->
 <img src="./assets/section-03-notes.svg" alt="03 — Field Notes" width="100%" />
