@@ -17,6 +17,8 @@ I build AI agents, developer tools, and software experiments that tend to begin 
 <!-- 02 / EXPERIMENT REGISTRY -->
 <img src="./assets/section-02-registry.svg" alt="02 — Experiment Registry" width="100%" />
 
+<!-- Registry maintenance: edit the Markdown table rows directly. Keep README_CN.md in sync. No SVG changes required. -->
+
 | Ref. | Experiment | Field notes |
 | :--- | :--- | :--- |
 | `01` | **[Stella →](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | Model-agnostic QQ-group AI agent. Local or online LLMs, extensible tools, and cost-conscious design. |
@@ -42,7 +44,13 @@ while tokens_available():
 <!-- 04 / OPEN CHANNEL -->
 <img src="./assets/section-04-contact.svg" alt="04 — Open Channel" width="100%" />
 
-**Toolchain:** `Python` · `Rust` · `TypeScript` · `JavaScript` · `Vue`
+**Toolchain / Installed modules**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-20232A?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 
 Open to interesting conversations and collaborations involving **AI agents**, **local-first software**, **developer tooling**, or just an idea that sounds a little unreasonable.
 
