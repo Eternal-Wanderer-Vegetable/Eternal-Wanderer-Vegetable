@@ -29,7 +29,7 @@ I build AI agents, developer tools, and software experiments that tend to begin 
 | `01` | **[Stella](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | Model-agnostic QQ-group AI agent. Local or online LLMs, extensible tools, and cost-conscious design. |
 | `02` | **[Caligo](https://github.com/Eternal-Wanderer-Vegetable/Caligo)** | Experimental Rust framework for modern NTQQ protocol clients. |
 | `03` | **[Athanor Studio](https://github.com/Eternal-Wanderer-Vegetable/Athanor_Studio)** | Structured documents, robust conversion, versioning, and information preservation. |
-| `04` | **[Kevin_Kelly-Game](https://github.com/Eternal-Wanderer-Vegetable/Kevin_Kelly-Game)** | Experimental harness for evolving coding agents through controlled self-rewrite, mutation, and independent evaluation. |
+| `04` | **[Alula_Code](https://github.com/Eternal-Wanderer-Vegetable/Alula_Code)** | Experimental low-memory, cross-platform code editor with a Flutter workbench, Rust core, and on-demand language services. |
 
 <sub>`index.status: expanding` &nbsp; · &nbsp; Selected public projects from my own repositories, not the full archive.</sub>
 

@@ -29,7 +29,7 @@
 | `01` | **[Stella](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)** | QQ 群 AI Agent，兼容本地与在线大模型，重视可扩展能力与运行成本。 |
 | `02` | **[Caligo](https://github.com/Eternal-Wanderer-Vegetable/Caligo)** | 基于 Rust 的实验性现代 NTQQ 协议客户端框架。 |
 | `03` | **[Athanor Studio](https://github.com/Eternal-Wanderer-Vegetable/Athanor_Studio)** | 结构化文档、可靠格式转换、版本管理与信息保留。 |
-| `04` | **[Kevin_Kelly-Game](https://github.com/Eternal-Wanderer-Vegetable/Kevin_Kelly-Game)** | Coding Agent 演化实验框架，研究受控自修改、变异与独立评测。 |
+| `04` | **[Alula_Code](https://github.com/Eternal-Wanderer-Vegetable/Alula_Code)** | 低内存跨平台代码编辑器，采用 Flutter 工作台、Rust 核心与按需启动的语言服务。 |
 
 <sub>`index.status: expanding` &nbsp; · &nbsp; 仅展示本人公开仓库中的部分代表作品，非完整仓库列表。</sub>
 
