@@ -1,21 +1,26 @@
+<!-- Theme variants use GitHub-specific fragments to follow the selected GitHub appearance. -->
 <p align="right">
   <strong>简体中文</strong> &nbsp; / &nbsp; <a href="./README.md">English</a>
 </p>
 
 <div align="center">
-  <img src="./assets/astral-terminal.svg" alt="Astral Terminal — Eternal Wanderer Vegetable" width="100%" />
+  <img src="./assets/astral-terminal-light.svg#gh-light-mode-only" alt="Astral Terminal — Eternal Wanderer Vegetable" width="100%" />
+<img src="./assets/astral-terminal.svg#gh-dark-mode-only" alt="Astral Terminal — Eternal Wanderer Vegetable" width="100%" />
   <p><em>“我们做这些事，不是因为它们简单，而是因为我们当初以为它们应该会很简单。”</em></p>
 </div>
 
 <!-- 01 / IDENTITY -->
-<img src="./assets/section-01-identity.svg" alt="01 — 身份档案" width="100%" />
+<img src="./assets/section-01-identity-light.svg#gh-light-mode-only" alt="01 — 身份档案" width="100%" />
+<img src="./assets/section-01-identity.svg#gh-dark-mode-only" alt="01 — 身份档案" width="100%" />
 
-<img src="./assets/terminal-session.svg" alt="终端身份档案：Eternal-Wanderer-Vegetable；AI Agent、本地优先、奇怪的想法；好奇心引擎在线。" width="100%" />
+<img src="./assets/terminal-session-light.svg#gh-light-mode-only" alt="终端身份档案：Eternal-Wanderer-Vegetable；AI Agent、本地优先、奇怪的想法；好奇心引擎在线。" width="100%" />
+<img src="./assets/terminal-session.svg#gh-dark-mode-only" alt="终端身份档案：Eternal-Wanderer-Vegetable；AI Agent、本地优先、奇怪的想法；好奇心引擎在线。" width="100%" />
 
 我喜欢研究 AI Agent、开发者工具，以及各种通常始于一句 *“这能有多难？”* 的奇怪软件实验。我偏爱**本地优先**的方案，也喜欢通过动手实践，把看起来简单的事情折腾得稍微复杂一点。
 
 <!-- 02 / EXPERIMENT REGISTRY -->
-<img src="./assets/section-02-registry.svg" alt="02 — 实验登记册" width="100%" />
+<img src="./assets/section-02-registry-light.svg#gh-light-mode-only" alt="02 — 实验登记册" width="100%" />
+<img src="./assets/section-02-registry.svg#gh-dark-mode-only" alt="02 — 实验登记册" width="100%" />
 
 <!-- 更新项目：直接修改下面的 Markdown 表格行即可，无需编辑 SVG；并同步更新 README.md。 -->
 
@@ -29,7 +34,8 @@
 <sub>`index.status: expanding` &nbsp; · &nbsp; 仅展示本人公开仓库中的部分代表作品，非完整仓库列表。</sub>
 
 <!-- 03 / FIELD NOTES -->
-<img src="./assets/section-03-notes.svg" alt="03 — 实验日志" width="100%" />
+<img src="./assets/section-03-notes-light.svg#gh-light-mode-only" alt="03 — 实验日志" width="100%" />
+<img src="./assets/section-03-notes.svg#gh-dark-mode-only" alt="03 — 实验日志" width="100%" />
 
 ```python
 while tokens_available():
@@ -42,7 +48,8 @@ while tokens_available():
 *“额度限制这玩意儿，应该只是个建议吧？”*（开玩笑的。大概。）
 
 <!-- 04 / OPEN CHANNEL -->
-<img src="./assets/section-04-contact.svg" alt="04 — 通信频道" width="100%" />
+<img src="./assets/section-04-contact-light.svg#gh-light-mode-only" alt="04 — 通信频道" width="100%" />
+<img src="./assets/section-04-contact.svg#gh-dark-mode-only" alt="04 — 通信频道" width="100%" />
 
 **Toolchain / 技术栈**
 

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Astral Terminal — Swiss Edition V2.2 — Light</title>
+<desc id="desc">A refined light Swiss-inspired GitHub banner with lighter typography and a dimensional orbital diagram. Labels are cleaner and orbital motion is continuously looping with more natural desynchronization.</desc>
+<style>
+  .headline { font-family: Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 620; }
+  .statement { font-family: Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 500; }
+  .mono { font-family: 'DejaVu Sans Mono', 'Liberation Mono', Menlo, Consolas, monospace; }
+</style>
+<rect width="1200" height="300" fill="#F6F8FA"/>
+<g stroke="#9EAEBD" stroke-width=".75" opacity=".13">
+  <line x1="54" y1="44" x2="54" y2="258"/>
+  <line x1="585" y1="44" x2="585" y2="258"/>
+  <line x1="1148" y1="44" x2="1148" y2="258"/>
+</g>
+<path d="M54 45H1148" stroke="#8B99A8" stroke-width="1" opacity=".52"/>
+<rect x="54" y="17" width="8" height="8" fill="#B44F36"/>
+<text x="73" y="26" class="mono" font-size="12" fill="#344555" letter-spacing="1.15">ASTRAL TERMINAL <tspan fill="#B44F36">/</tspan> 001</text>
+<text x="1147" y="26" class="mono" font-size="11" text-anchor="end" fill="#5C7180" letter-spacing="1.2">PERSONAL ARCHIVE</text>
+
+<text x="54" y="118" class="headline" font-size="53" letter-spacing="-1.85" fill="#223140">ETERNAL WANDERER</text>
+<text x="54" y="193" class="headline" font-size="68" letter-spacing="-2.15" fill="#B44F36">VEGETABLE.</text>
+<path d="M54 215H548" stroke="#A1ADBA" stroke-width="1" opacity=".6"/>
+<text x="54" y="240" class="statement" font-size="17.5" fill="#344555" letter-spacing=".08">MAKING DIFFICULT THINGS LOOK</text>
+<text x="54" y="263" class="statement" font-size="17.5" fill="#344555" letter-spacing=".08">SUSPICIOUSLY EASY.</text>
+<text x="54" y="286" class="mono" font-size="10" fill="#647584" letter-spacing=".6">AI AGENTS   /   LOCAL-FIRST SYSTEMS   /   STRANGE EXPERIMENTS</text>
+
+<g id="orbital-3d">
+  <path d="M792 150H1108 M947 50V252" stroke="#9AABB8" stroke-width=".85" stroke-dasharray="2 7" opacity=".28"/>
+  <g transform="translate(947 150) rotate(-18) scale(1 0.72)">
+    <ellipse cx="0" cy="0" rx="128" ry="128" fill="none" stroke="#8FA0AE" stroke-width=".9" opacity=".11"/>
+    <ellipse cx="0" cy="0" rx="92" ry="92" fill="none" stroke="#95A5B2" stroke-width=".8" opacity=".10"/>
+    <path d="M-113.43 -32.53 A118.00 118.00 0 0 1 97.83 -65.98" fill="none" stroke="#667A8A" stroke-width="1.25" opacity=".42"/>
+    <path d="M-67.98 -45.85 A82.00 82.00 0 0 1 73.70 -35.95" fill="none" stroke="#687D8C" stroke-width="1.15" opacity=".37"/>
+    <path d="M-29.57 -35.24 A46.00 46.00 0 0 1 43.23 -15.73" fill="none" stroke="#6B7F8F" stroke-width="1.1" opacity=".32"/>
+    <circle cx="0" cy="0" r="18.5" fill="#EAF0F5" opacity=".9"/>
+    <circle cx="0" cy="0" r="12.2" fill="none" stroke="#687C8C" stroke-width="1" opacity=".42"/>
+    <circle cx="0" cy="0" r="6.2" fill="none" stroke="#7C8C99" stroke-width=".8" opacity=".22"/>
+    <path d="M112.22 36.46 A118.00 118.00 0 0 1 -112.22 36.46" fill="none" stroke="#506577" stroke-width="1.5" opacity=".82"/>
+    <path d="M-116.21 -20.49 A118.00 118.00 0 0 1 -49.87 -106.94" fill="none" stroke="#607686" stroke-width="1.35" opacity=".62"/>
+    <path d="M72.40 38.50 A82.00 82.00 0 1 1 -69.54 -43.45" fill="none" stroke="#405A6B" stroke-width="1.22" opacity=".73"/>
+    <path d="M-56.96 -58.99 A82.00 82.00 0 0 1 -2.86 -81.95" fill="none" stroke="#516B7C" stroke-width="1.12" opacity=".54"/>
+    <path d="M37.21 27.04 A46.00 46.00 0 1 1 25.72 -38.14" fill="none" stroke="#39566A" stroke-width="1.28" opacity=".86"/>
+    <path d="M-116.55 -61.97 A132.00 132.00 0 0 1 122.39 -49.45" fill="none" stroke="#A1AFBB" stroke-width="3" opacity=".15"/>
+    <g>
+      <path d="M78.96 87.69 A118.00 118.00 0 0 1 24.53 115.42" fill="none" stroke="#B44F36" stroke-width="4" stroke-linecap="round"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="9.2s" repeatCount="indefinite"/>
+    </g>
+    <g stroke="#718797" opacity=".48" stroke-width=".72"><line x1="-121.80" y1="-17.12" x2="-124.77" y2="-17.54"/>
+<line x1="-119.35" y1="-29.76" x2="-122.26" y2="-30.48"/>
+<line x1="-115.58" y1="-42.07" x2="-121.22" y2="-44.12"/>
+<line x1="-110.55" y1="-53.92" x2="-113.25" y2="-55.23"/>
+<line x1="-104.31" y1="-65.18" x2="-106.85" y2="-66.77"/>
+<line x1="-96.93" y1="-75.73" x2="-99.29" y2="-77.57"/>
+<line x1="-88.48" y1="-85.44" x2="-90.64" y2="-87.53"/>
+<line x1="-79.06" y1="-94.22" x2="-80.99" y2="-96.52"/>
+<line x1="-68.78" y1="-101.97" x2="-70.46" y2="-104.46"/>
+<line x1="-57.75" y1="-108.60" x2="-59.15" y2="-111.25"/>
+<line x1="-46.08" y1="-114.04" x2="-47.20" y2="-116.83"/>
+<line x1="-33.90" y1="-118.24" x2="-34.73" y2="-121.12"/></g>
+    <g>
+      <circle cx="-82" cy="0" r="3.85" fill="#304B60"/>
+      <circle cx="-82" cy="0" r="7.1" fill="none" stroke="#304B60" stroke-width=".8" opacity=".34"/>
+      <animateTransform attributeName="transform" type="rotate" from="35 0 0" to="395 0 0" dur="12.6s" repeatCount="indefinite"/>
+    </g>
+    <circle cx="0" cy="0" r="4.0" fill="#405A6C"/>
+    <circle cx="0" cy="0" r="8.4" fill="none" stroke="#728697" stroke-width=".82" opacity=".44"/>
+  </g>
+  <path d="M1033 217L1060 232" fill="none" stroke="#8495A3" stroke-width=".88" opacity=".72"/>
+  <circle cx="1072" cy="239" r="2.7" fill="#B44F36"/>
+  <path d="M842 78H857 M842 78V94" stroke="#72889A" stroke-width=".85" opacity=".6"/>
+  <path d="M1101 218H1117V201" stroke="#72889A" stroke-width=".85" opacity=".48"/>
+  <text x="810" y="69" class="mono" font-size="10" fill="#5E7181" letter-spacing=".68">FIG. 01</text>
+  <text x="786" y="236" class="mono" font-size="10" fill="#647684" letter-spacing=".95">ORBIT / 02</text>
+  <text x="1130" y="241" class="mono" font-size="9" fill="#647684" letter-spacing=".5" text-anchor="end">X</text>
+</g>
+
+<path d="M710 259H1148" stroke="#8B99A8" stroke-width=".8" opacity=".48"/>
+<circle cx="1036" cy="277" r="2.95" fill="#B44F36" opacity=".46"><animate attributeName="opacity" values="0.46;0.95;0.46" keyTimes="0;0.5;1" dur="3.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="r" values="2.95;3.35;2.95" keyTimes="0;0.5;1" dur="3.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/></circle>
+<text x="1147" y="280.7" text-anchor="end" class="mono" font-size="11" fill="#4D6070" letter-spacing="1.2">SYS.ACTIVE</text>
+</svg>

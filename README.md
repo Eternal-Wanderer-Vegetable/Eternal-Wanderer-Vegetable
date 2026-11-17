@@ -1,21 +1,26 @@
+<!-- Theme variants use GitHub-specific fragments to follow the selected GitHub appearance. -->
 <p align="right">
   <a href="./README_CN.md">简体中文</a> &nbsp; / &nbsp; <strong>English</strong>
 </p>
 
 <div align="center">
-  <img src="./assets/astral-terminal.svg" alt="Astral Terminal — Eternal Wanderer Vegetable" width="100%" />
+  <img src="./assets/astral-terminal-light.svg#gh-light-mode-only" alt="Astral Terminal — Eternal Wanderer Vegetable" width="100%" />
+<img src="./assets/astral-terminal.svg#gh-dark-mode-only" alt="Astral Terminal — Eternal Wanderer Vegetable" width="100%" />
   <p><em>“We do these things not because they are easy, but because we thought they should be easy.”</em></p>
 </div>
 
 <!-- 01 / IDENTITY -->
-<img src="./assets/section-01-identity.svg" alt="01 — Identity" width="100%" />
+<img src="./assets/section-01-identity-light.svg#gh-light-mode-only" alt="01 — Identity" width="100%" />
+<img src="./assets/section-01-identity.svg#gh-dark-mode-only" alt="01 — Identity" width="100%" />
 
-<img src="./assets/terminal-session.svg" alt="Terminal session: Eternal-Wanderer-Vegetable; AI agents, local-first systems and odd ideas; curiosity engine online; common sense module not found." width="100%" />
+<img src="./assets/terminal-session-light.svg#gh-light-mode-only" alt="Terminal session: Eternal-Wanderer-Vegetable; AI agents, local-first systems and odd ideas; curiosity engine online; common sense module not found." width="100%" />
+<img src="./assets/terminal-session.svg#gh-dark-mode-only" alt="Terminal session: Eternal-Wanderer-Vegetable; AI agents, local-first systems and odd ideas; curiosity engine online; common sense module not found." width="100%" />
 
 I build AI agents, developer tools, and software experiments that tend to begin with the words *“How hard could it be?”* I prefer practical tools, local-first thinking, and learning by making things slightly more complicated than expected.
 
 <!-- 02 / EXPERIMENT REGISTRY -->
-<img src="./assets/section-02-registry.svg" alt="02 — Experiment Registry" width="100%" />
+<img src="./assets/section-02-registry-light.svg#gh-light-mode-only" alt="02 — Experiment Registry" width="100%" />
+<img src="./assets/section-02-registry.svg#gh-dark-mode-only" alt="02 — Experiment Registry" width="100%" />
 
 <!-- Registry maintenance: edit the Markdown table rows directly. Keep README_CN.md in sync. No SVG changes required. -->
 
@@ -29,7 +34,8 @@ I build AI agents, developer tools, and software experiments that tend to begin 
 <sub>`index.status: expanding` &nbsp; · &nbsp; Selected public projects from my own repositories, not the full archive.</sub>
 
 <!-- 03 / FIELD NOTES -->
-<img src="./assets/section-03-notes.svg" alt="03 — Field Notes" width="100%" />
+<img src="./assets/section-03-notes-light.svg#gh-light-mode-only" alt="03 — Field Notes" width="100%" />
+<img src="./assets/section-03-notes.svg#gh-dark-mode-only" alt="03 — Field Notes" width="100%" />
 
 ```python
 while tokens_available():
@@ -42,7 +48,8 @@ while tokens_available():
 *The rate limit is just a suggestion, right?* (This is a joke. Probably.)
 
 <!-- 04 / OPEN CHANNEL -->
-<img src="./assets/section-04-contact.svg" alt="04 — Open Channel" width="100%" />
+<img src="./assets/section-04-contact-light.svg#gh-light-mode-only" alt="04 — Open Channel" width="100%" />
+<img src="./assets/section-04-contact.svg#gh-dark-mode-only" alt="04 — Open Channel" width="100%" />
 
 **Toolchain / Installed modules**
 
